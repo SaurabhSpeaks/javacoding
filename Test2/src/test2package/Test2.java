@@ -15,7 +15,7 @@ public class Test2
 		b = c-a;
 		{
 		
-			if (c<a);
+			if (c<a)
 			{
 				System.out.println("The entered amount is less");
 				System.out.println("The minimum amount required is 5");
@@ -33,3 +33,5 @@ public class Test2
 	}
 
 }
+
+
