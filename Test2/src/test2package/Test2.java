@@ -7,7 +7,7 @@ public class Test2
 	
 	public static void main (String args [])
 	{
-		
+		// demo program
 		int a=5,b,c;
 		Scanner d = new Scanner(System.in);
 		System.out.println("Enter the amount you have");
